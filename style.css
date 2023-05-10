@@ -10,11 +10,11 @@ p{
 }
 
 #background{
-    top: 50px;
     height: 1700px;
     white-space: pre;
-    width: 1250px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto%;
 }
 
 pre{
@@ -24,12 +24,35 @@ pre{
     width: 1200px;
     height: 1700px;
     text-align: center;
+    position: absolute;
+    top: 40px;
 }
 
 #header{
-    top: 10px;
+    top: 0px;
     margin-left: 25px;
     position: absolute;
+    //background-color: aqua;
+    width: 100%;
+}
+
+#div_head1{
+    //background-color: brown;
+    width: 33%;
+    float: left;
+	clear: right;
+}
+#div_head2{
+   //background-color: brown;
+    width: 33%;
+    float: left;
+	clear: right;
+}
+#div_head3{
+    //background-color: brown;
+    width: 33%;
+    float: left;
+	clear: right;
 }
 
 .icons{
@@ -41,19 +64,19 @@ pre{
 }
 
 #illustrations{
-top:85px;
+top:65px;
 }
 
 #design{
-    top:200px;  
+    top:180px;  
 }
 
 #books{
-    top:315px;  
+    top:295px;  
 }
 
 #sites{
-    top:430px;
+    top:410px;
 }
 
 #monstercansgif{
