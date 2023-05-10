@@ -1,3 +1,25 @@
+p{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+}
+
+#background{
+    top: 50px;
+    width: 1200px;
+    height: 2100px;
+    position: absolute;
+    white-space: pre;
+}
+
+pre{
+    font-family: 'Courier Prime', Courier New, Courier, monospace;
+    white-space: pre;
+    font-size: 10px;
+    width: 1200px;
+    height: 2100px;
+    text-align: center;
+}
+
 .icons{
     width: 120px;
     text-align: center;
