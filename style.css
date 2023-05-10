@@ -14,7 +14,7 @@ p{
     white-space: pre;
     margin-left: auto;
     margin-right: auto;
-    width: auto%;
+    width: auto;
 }
 
 pre{
@@ -32,24 +32,20 @@ pre{
     top: 0px;
     margin-left: 25px;
     position: absolute;
-    //background-color: aqua;
     width: 100%;
 }
 
 #div_head1{
-    //background-color: brown;
     width: 33%;
     float: left;
 	clear: right;
 }
 #div_head2{
-   //background-color: brown;
     width: 33%;
     float: left;
 	clear: right;
 }
 #div_head3{
-    //background-color: brown;
     width: 33%;
     float: left;
 	clear: right;
