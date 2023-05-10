@@ -5,10 +5,10 @@ p{
 
 #background{
     top: 50px;
-    width: 1200px;
-    height: 2100px;
+    margin-left: 5%;
     position: absolute;
     white-space: pre;
+
 }
 
 pre{
