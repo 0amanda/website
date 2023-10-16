@@ -29,9 +29,7 @@ a:active { text-decoration: none; }
 #background{
     height: 1700px;
     white-space: pre;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
+    width: 100vw;
 }
 
 pre{
@@ -45,28 +43,33 @@ pre{
     top: 40px;
 }
 
-#header{
+.header{
     top: 0px;
-    margin-left: 25px;
     position: absolute;
-    width: 100%;
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    gap: 1rem;
+    box-sizing: border-box;
 }
 
-#div_head1{
-    width: 33%;
-    float: left;
-	clear: right;
+.name{
 }
-#div_head2{
-    width: 33%;
-    float: left;
-	clear: right;
+
+.item2{
+    
 }
-#div_head3{
-    width: 33%;
-    float: left;
-	clear: right;
+
+.item3{
+   
 }
+
+.item4{
+    
+}
+
 
 .icons{
     width: 120px;
