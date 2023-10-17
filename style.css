@@ -51,6 +51,7 @@ pre{
     justify-content: space-between;
     padding-left: 1rem;
     padding-right: 1rem;
+    align-items: baseline;
     gap: 1rem;
     box-sizing: border-box;
 }
@@ -105,6 +106,13 @@ top:65px;
     position:absolute;
     margin-left:45%;
     top:500px;
+}
+
+.placeholderwebsite{
+    position: absolute;
+    width: 500px;
+    top: 100px;
+    right: 30px;
 }
 
 
